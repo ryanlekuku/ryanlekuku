@@ -14,9 +14,13 @@ I build practical web, mobile, and software products from requirements through d
 
 ## Selected work
 
-### [Plateria](https://plateria.co)
+### [Plateria](https://github.com/ryanlekuku/plateria-showcase)
 
-An integrated restaurant technology platform spanning online ordering, consumer mobile experiences, owner and kitchen dashboards, onboarding, payments, and database-backed workflows. The engineering process includes deterministic Claude review, Codex-assisted remediation, structured severity-based outputs, authorization gates, stall detection, automated tests, and deployment safeguards.
+An integrated restaurant technology platform spanning online ordering, consumer mobile experiences, owner and kitchen dashboards, onboarding, payments, and database-backed workflows. The public engineering showcase documents the product architecture and a controlled Claude review and Codex remediation workflow. [Visit the product](https://plateria.co).
+
+### [AI Workflow Engineering](https://github.com/ryanlekuku/ai-workflow-engineering)
+
+An executable, dependency-free Python case study of deterministic prompt construction, structured review results, policy gates, bounded remediation, stall detection, and mandatory human approval. Includes focused tests and no paid API requirement.
 
 ### [Daily Shove](https://apps.apple.com/us/app/daily-shove/id6760803455)
 
