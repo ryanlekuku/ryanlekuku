@@ -1,63 +1,47 @@
+
 # Ryan Lekuku
 
-**Web & Product Developer | AI Automation & Prompt Engineering**
+**Web & Product Developer | Web, Mobile & Product Engineering**
 
-I build practical web, mobile, and software products from requirements through development, testing, deployment, and iteration. My work combines product-focused engineering with client delivery, customer experience, and carefully controlled AI-assisted workflows.
+I build and ship practical web, mobile, and software products from requirements through development, testing, deployment, and iteration. My work combines product-focused engineering with client delivery and customer experience.
 
-## What I build
+## Selected Work
 
-- Full-stack web products and customer-facing websites
-- Native iOS applications and mobile product experiences
-- APIs, dashboards, onboarding, ordering, and operational workflows
-- AI-assisted review and remediation systems with structured outputs
-- Human-in-the-loop automation with authorization and policy gates
+### Plateria
 
-## Selected work
+A connected restaurant platform for direct ordering and daily operations, with customer ordering, restaurant dashboards, kitchen workflows, onboarding, and a TypeScript API backed by Supabase and PostgreSQL. [Visit Plateria](https://plateria.co) · [Product and engineering showcase](https://github.com/ryanlekuku/plateria-showcase)
 
-### [Plateria](https://github.com/ryanlekuku/plateria-showcase)
+### Daily Shove
 
-An integrated restaurant technology platform spanning online ordering, consumer mobile experiences, owner and kitchen dashboards, onboarding, payments, and database-backed workflows. The public engineering showcase documents the product architecture and a controlled Claude review and Codex remediation workflow. [Visit the product](https://plateria.co).
+A shipped iOS app integrating AI-generated personalized motivational responses and quotes. Built with Swift, SwiftUI, WidgetKit, StoreKit, and local notifications. [App Store](https://apps.apple.com/us/app/daily-shove/id6760803455)
 
-### [AI Workflow Engineering](https://github.com/ryanlekuku/ai-workflow-engineering)
+### Daily Vent
 
-An executable, dependency-free Python case study of deterministic prompt construction, structured review results, policy gates, bounded remediation, stall detection, and mandatory human approval. Includes focused tests and no paid API requirement.
-
-### [Daily Shove](https://apps.apple.com/us/app/daily-shove/id6760803455)
-
-A shipped native iOS app that delivers direct motivational messages and integrates AI-generated personalized responses and quotes into the product experience. Built with Swift, SwiftUI, WidgetKit, StoreKit, and local notifications.
-
-### [Daily Vent](https://apps.apple.com/us/app/daily-vent/id6761734299)
-
-A published SwiftUI app for recording and reflecting on daily thoughts, with authentication, mood tracking, and a companion backend service.
+A published SwiftUI app for recording and reflecting on daily thoughts, with authentication, mood tracking, and a companion backend service. [App Store](https://apps.apple.com/us/app/daily-vent/id6761734299)
 
 ### Client websites
 
-- [Mystic Tattoo Collective](https://mystictattoocollective.com) — responsive studio website with artist profiles, galleries, booking paths, and launch-ready customer information
-- [Tony Ramirez Tattoo](https://tonyramireztattoo.com) — mobile-ready artist portfolio and customer inquiry experience
+- [Mystic Tattoo Collective](https://mystictattoocollective.com) — responsive studio website with artist profiles, galleries, booking paths, and launch-ready customer information.
+- [Tony Ramirez Tattoo](https://tonyramireztattoo.com) — mobile-ready artist portfolio and customer inquiry experience.
 
 Client and production repositories remain private where publishing source would expose proprietary work or operational details.
 
-## AI and automation
+## Technical Stack
 
-I design AI-assisted engineering workflows around predictable behavior and human accountability, including:
+- **Languages:** TypeScript, JavaScript, Swift, Python, SQL
+- **Web and product:** Next.js, React, Node.js, WordPress, Tailwind CSS
+- **Mobile:** SwiftUI, WidgetKit, StoreKit, React Native, Expo
+- **Data and infrastructure:** Supabase, PostgreSQL, Firebase, Vercel, Render, GitHub Actions
+- **Engineering practices:** Git, automated testing, API integration, CI/CD, deployment
 
-- Prompt and system-instruction design
-- Claude and Codex review/remediation loops
-- Deterministic prompt construction and structured outputs
-- Severity taxonomies, policy gates, and authorization boundaries
-- Stall detection, automated testing, and CI/deployment safeguards
-- Human approval checkpoints for consequential actions
+## Automation and AI Workflows
 
-## Technologies
+I also build controlled automation workflows that combine deterministic orchestration with model-assisted review. The engineering work includes structured outputs, policy and authorization gates, bounded remediation, testing, failure detection, and human approval checkpoints.
 
-**Languages:** TypeScript, JavaScript, Swift, Python, SQL  
-**Web and product:** Next.js, React, Node.js, WordPress, Tailwind CSS  
-**Mobile:** SwiftUI, WidgetKit, StoreKit, React Native, Expo  
-**Data and infrastructure:** Supabase, PostgreSQL, Firebase, Vercel, Render, GitHub Actions  
-**Workflow:** Git, automated testing, API integration, prompt engineering, AI-assisted development
+[AI Workflow Engineering](https://github.com/ryanlekuku/ai-workflow-engineering) is an executable, dependency-free Python case study of these patterns.
 
 ## Links
 
 - Portfolio: [ryanlekuku.com](https://ryanlekuku.com)
-- Résumé: [ryanlekuku.com/Ryan-Lekuku-Resume.pdf](https://ryanlekuku.com/Ryan-Lekuku-Resume.pdf)
+- Résumé: [Download PDF](https://ryanlekuku.com/Ryan-Lekuku-Resume.pdf)
 - Email: [hello@ryanlekuku.com](mailto:hello@ryanlekuku.com)
