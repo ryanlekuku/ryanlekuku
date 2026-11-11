@@ -38,7 +38,7 @@ Client and production repositories remain private where publishing source would 
 
 I also build controlled automation workflows that combine deterministic orchestration with model-assisted review. The engineering work includes structured outputs, policy and authorization gates, bounded remediation, testing, failure detection, and human approval checkpoints.
 
-[AI Workflow Engineering](https://github.com/ryanlekuku/ai-workflow-engineering) is an executable, dependency-free Python case study of these patterns.
+[Controlled AI Review — Written Case Study](https://github.com/ryanlekuku/plateria-showcase/blob/main/docs/engineering.md#case-study-controlled-ai-review) explains the problem, workflow, and demonstration outcomes without publishing implementation code.
 
 ## Links
 
